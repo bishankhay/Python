@@ -1,0 +1,22 @@
+Types of Condition Statements
+1. If the Statement
+2. If else statement
+3. If-elif-else Statement
+4. Nasted statement
+5. Short hand if statement
+
+Examples
+
+If else
+if condition :
+  body of if 
+else: 
+  body of else
+
+
+
+
+
+
+Practice Question
+## Write a program to check whether the number is Odd or Even
